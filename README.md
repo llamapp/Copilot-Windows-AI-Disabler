@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b29573af-897d-4891-85c9-7b12ca54da55)
+
 # Copilot Windows AI Disabler
 
 **Copilot Windows AI Disabler** is a lightweight tool designed to easily disable the Windows Copilot AI features on your PC. Whether you want to boost system performance, reduce distractions, or maintain privacy, this tool provides a quick and effective solution.
